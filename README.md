@@ -14,7 +14,7 @@ I wanted to know whether F1 racedays are becoming more or less competitive. I ha
 For more interpretation, check out [this Medium post](https://medium.com/p/4d080f93dc4b).
 
 The result is a graph that looks like this (as of August 2017):
-![History of F1 points race novelty](./F1 raceday novelty.png)
+![History of F1 points race novelty](F1%20raceday%20novelty.png)
 
 # Installation
 You'll need python, jupyter, jupyter notebook, pandas, matplotlib, numpy, mysqldb.
